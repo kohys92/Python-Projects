@@ -30,3 +30,6 @@ acct2.withdraw(20)
 
 print(acct1)
 print(acct2)
+
+acct2.withdraw(100)
+print(acct2)
